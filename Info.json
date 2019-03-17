@@ -1,0 +1,9 @@
+﻿{
+  "Id": "EnableAchievements",
+  "DisplayName": "Enable Achievements with Cheats",
+  "Author": "adalovegirls",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.14.2.0",
+  "AssemblyName": "EnableAchievements.dll",
+  "EntryMethod": "EnableAchievements.ModEntry.Load"
+}
